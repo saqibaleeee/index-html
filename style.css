@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    align-items: center;
+}
+header, .homepage-logo, img{
+    width: 78px;
+}
+ul{
+    display: flex;
+}
+ul button{
+    padding: 37px 93px;
+}
